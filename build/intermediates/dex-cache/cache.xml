@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/AndroidStudioProjects/VideoStreamer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="effcea8ea6fb5004f6ce6084b6463552b90f0fa2">
+        <dex dex="/Users/gautam/AndroidStudioProjects/VideoStreamer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5eaa9341e773da944151910485970b572f42246c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautam/AndroidStudioProjects/VideoStreamer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/gautam/AndroidStudioProjects/VideoStreamer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ccfbc3a2ea7fa320b2a68e9afa29e13bc99f8281/classes.dex" />
+    </item>
+
+</items>
